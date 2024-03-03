@@ -24,10 +24,10 @@ To access the dataset:
    pip install pandas matplotlib
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/complaints-analysis.git
-cd complaints-analysis
+   ```bash
+   Copy code
+   git clone https://github.com/your-username/complaints-analysis.git
+   cd complaints-analysis
 Run the analysis script:
 
 bash
