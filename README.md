@@ -1,5 +1,7 @@
 # Complaints Analysis
 
+Created by Shreeniket Bendre, for Infosys InStep technical round interview.
+
 This project involves the analysis of consumer complaints data, exploring patterns and insights through clustering and visualization.
 
 ## Dataset
@@ -36,6 +38,10 @@ Explore the generated results and visualizations.
 ## Additional Dataset
 State Populations Dataset (us-state-populations.csv)
 For population information, the us-state-populations.csv dataset is used. It contains state codes, names, and populations.
+
+## Results
+![image](https://github.com/Sben05/ConsumerComplaintsAnalysis/assets/69019341/2517077c-b14f-40a5-b3b6-da2e55cd0e68)
+
 
 ## Note
 Feel free to explore, modify, and adapt the code for your specific needs. If you encounter any issues or have questions, please open an issue on this repository.
