@@ -27,15 +27,8 @@ Clone the repository:
    
    ```bash
    Copy code
-   git clone https://github.com/your-username/complaints-analysis.git
-   cd complaints-analysis
+   git clone https://github.com/Sben05/ConsumerComplaintsAnalysis.git
    ```
-
-Run the analysis script:
-
-bash
-Copy code
-python analysis_script.py
 Explore the generated results and visualizations.
 
 ## Additional Dataset
